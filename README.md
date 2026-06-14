@@ -1,5 +1,3 @@
-# Stock-Portfolio-Tracker
-# Stock Portfolio Tracker
 # Stock Portfolio Tracker
 
 ## Description
